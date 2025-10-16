@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="950" height="550" xmlns="http://www.w3.org/2000/svg">
+    <!-- Background -->
+    <rect width="950" height="550" fill="#191970"/>
+    
+    <!-- Title -->
+    <text x="475" y="30" text-anchor="middle" font-family="Arial" font-size="24" font-weight="bold" fill="#2F4F4F">
+        Echo Garden - Aurora Gradient
+    </text>
+    <text x="475" y="50" text-anchor="middle" font-family="Arial" font-size="14" fill="#696969">
+        16 Beautiful Trees Generated
+    </text>
+    
+    <!-- Trees -->
+    <rect x="153" y="352" width="5" height="26" fill="#483D8B"/>
+    <circle cx="153" cy="346" r="26" fill="#FF00FF" opacity="0.8"/>
+    <circle cx="167" cy="342" r="16" fill="#0000FF" opacity="0.8"/>
+    <circle cx="164" cy="345" r="27" fill="#0000FF" opacity="0.8"/>
+    <rect x="353" y="258" width="6" height="34" fill="#6A5ACD"/>
+    <circle cx="349" cy="245" r="35" fill="#00BFFF" opacity="0.8"/>
+    <circle cx="369" cy="237" r="27" fill="#FF1493" opacity="0.8"/>
+    <circle cx="352" cy="241" r="31" fill="#FF1493" opacity="0.8"/>
+    <rect x="645" y="200" width="9" height="47" fill="#BA55D3"/>
+    <circle cx="638" cy="166" r="39" fill="#00BFFF" opacity="0.8"/>
+    <circle cx="661" cy="166" r="31" fill="#0000FF" opacity="0.8"/>
+    <circle cx="647" cy="172" r="43" fill="#00FFFF" opacity="0.8"/>
+    <rect x="802" y="137" width="4" height="20" fill="#6A5ACD"/>
+    <circle cx="798" cy="121" r="23" fill="#4169E1" opacity="0.8"/>
+    <circle cx="791" cy="129" r="24" fill="#00BFFF" opacity="0.8"/>
+    <circle cx="805" cy="124" r="21" fill="#4169E1" opacity="0.8"/>
+    <rect x="545" y="347" width="9" height="47" fill="#483D8B"/>
+    <circle cx="534" cy="318" r="40" fill="#1E90FF" opacity="0.8"/>
+    <circle cx="550" cy="319" r="45" fill="#8A2BE2" opacity="0.8"/>
+    <circle cx="546" cy="330" r="30" fill="#FF00FF" opacity="0.8"/>
+    <rect x="297" y="332" width="7" height="38" fill="#483D8B"/>
+    <circle cx="295" cy="317" r="23" fill="#0000FF" opacity="0.8"/>
+    <circle cx="311" cy="304" r="37" fill="#9370DB" opacity="0.8"/>
+    <circle cx="301" cy="304" r="32" fill="#9370DB" opacity="0.8"/>
+    <rect x="780" y="317" width="9" height="49" fill="#2F4F4F"/>
+    <circle cx="797" cy="294" r="32" fill="#1E90FF" opacity="0.8"/>
+    <circle cx="780" cy="291" r="37" fill="#0000FF" opacity="0.8"/>
+    <circle cx="792" cy="290" r="32" fill="#9370DB" opacity="0.8"/>
+    <rect x="457" y="147" width="8" height="43" fill="#2F4F4F"/>
+    <circle cx="471" cy="126" r="39" fill="#FF1493" opacity="0.8"/>
+    <circle cx="458" cy="119" r="37" fill="#00BFFF" opacity="0.8"/>
+    <circle cx="473" cy="117" r="34" fill="#9370DB" opacity="0.8"/>
+    <rect x="122" y="310" width="7" height="39" fill="#483D8B"/>
+    <circle cx="135" cy="291" r="24" fill="#4169E1" opacity="0.8"/>
+    <circle cx="117" cy="286" r="36" fill="#9370DB" opacity="0.8"/>
+    <circle cx="110" cy="297" r="29" fill="#1E90FF" opacity="0.8"/>
+    <rect x="566" y="188" width="9" height="48" fill="#9370DB"/>
+    <circle cx="565" cy="163" r="34" fill="#0000FF" opacity="0.8"/>
+    <circle cx="582" cy="154" r="46" fill="#4169E1" opacity="0.8"/>
+    <circle cx="582" cy="163" r="31" fill="#FF00FF" opacity="0.8"/>
+    <rect x="94" y="169" width="6" height="33" fill="#483D8B"/>
+    <circle cx="86" cy="149" r="26" fill="#4169E1" opacity="0.8"/>
+    <circle cx="108" cy="147" r="27" fill="#9370DB" opacity="0.8"/>
+    <circle cx="99" cy="155" r="22" fill="#4169E1" opacity="0.8"/>
+    <rect x="259" y="263" width="6" height="33" fill="#BA55D3"/>
+    <circle cx="260" cy="238" r="22" fill="#1E90FF" opacity="0.8"/>
+    <circle cx="247" cy="248" r="35" fill="#FF00FF" opacity="0.8"/>
+    <circle cx="273" cy="255" r="22" fill="#0000FF" opacity="0.8"/>
+    <rect x="730" y="225" width="4" height="24" fill="#2F4F4F"/>
+    <circle cx="724" cy="214" r="18" fill="#4169E1" opacity="0.8"/>
+    <circle cx="731" cy="217" r="13" fill="#1E90FF" opacity="0.8"/>
+    <circle cx="730" cy="203" r="13" fill="#00FFFF" opacity="0.8"/>
+    <rect x="169" y="399" width="8" height="40" fill="#6A5ACD"/>
+    <circle cx="168" cy="379" r="30" fill="#8A2BE2" opacity="0.8"/>
+    <circle cx="184" cy="371" r="37" fill="#FF00FF" opacity="0.8"/>
+    <circle cx="160" cy="378" r="40" fill="#00BFFF" opacity="0.8"/>
+    <rect x="462" y="446" width="5" height="26" fill="#9370DB"/>
+    <circle cx="473" cy="429" r="25" fill="#0000FF" opacity="0.8"/>
+    <circle cx="472" cy="442" r="25" fill="#00FFFF" opacity="0.8"/>
+    <circle cx="477" cy="423" r="19" fill="#FF00FF" opacity="0.8"/>
+    <rect x="504" y="335" width="5" height="28" fill="#2F4F4F"/>
+    <circle cx="500" cy="325" r="31" fill="#FF1493" opacity="0.8"/>
+    <circle cx="514" cy="331" r="26" fill="#9400D3" opacity="0.8"/>
+    <circle cx="512" cy="321" r="25" fill="#FF1493" opacity="0.8"/>
+    <line x1="305" y1="526" x2="307" y2="514" 
+          stroke="#4169E1" stroke-width="2" opacity="0.6"/>
+    <line x1="311" y1="526" x2="313" y2="513" 
+          stroke="#4169E1" stroke-width="2" opacity="0.6"/>
+    <line x1="311" y1="526" x2="311" y2="516" 
+          stroke="#4169E1" stroke-width="2" opacity="0.6"/>
+    <line x1="252" y1="472" x2="251" y2="457" 
+          stroke="#1E90FF" stroke-width="2" opacity="0.6"/>
+    <line x1="252" y1="472" x2="253" y2="464" 
+          stroke="#1E90FF" stroke-width="2" opacity="0.6"/>
+    <line x1="259" y1="472" x2="261" y2="461" 
+          stroke="#1E90FF" stroke-width="2" opacity="0.6"/>
+    <line x1="243" y1="474" x2="244" y2="463" 
+          stroke="#1E90FF" stroke-width="2" opacity="0.6"/>
+    <line x1="240" y1="474" x2="240" y2="462" 
+          stroke="#1E90FF" stroke-width="2" opacity="0.6"/>
+    <line x1="246" y1="474" x2="247" y2="459" 
+          stroke="#1E90FF" stroke-width="2" opacity="0.6"/>
+    <line x1="864" y1="491" x2="864" y2="480" 
+          stroke="#8A2BE2" stroke-width="2" opacity="0.6"/>
+    <line x1="868" y1="491" x2="867" y2="481" 
+          stroke="#8A2BE2" stroke-width="2" opacity="0.6"/>
+    <line x1="861" y1="491" x2="862" y2="478" 
+          stroke="#8A2BE2" stroke-width="2" opacity="0.6"/>
+    <line x1="518" y1="456" x2="519" y2="448" 
+          stroke="#FF00FF" stroke-width="2" opacity="0.6"/>
+    <line x1="518" y1="456" x2="520" y2="442" 
+          stroke="#FF00FF" stroke-width="2" opacity="0.6"/>
+    <line x1="519" y1="456" x2="517" y2="442" 
+          stroke="#FF00FF" stroke-width="2" opacity="0.6"/>
+    <line x1="321" y1="465" x2="322" y2="456" 
+          stroke="#00BFFF" stroke-width="2" opacity="0.6"/>
+    <line x1="321" y1="465" x2="323" y2="456" 
+          stroke="#00BFFF" stroke-width="2" opacity="0.6"/>
+    <line x1="320" y1="465" x2="319" y2="453" 
+          stroke="#00BFFF" stroke-width="2" opacity="0.6"/>
+    <line x1="716" y1="485" x2="718" y2="477" 
+          stroke="#FF00FF" stroke-width="2" opacity="0.6"/>
+    <line x1="712" y1="485" x2="714" y2="476" 
+          stroke="#FF00FF" stroke-width="2" opacity="0.6"/>
+    <line x1="713" y1="485" x2="713" y2="476" 
+          stroke="#FF00FF" stroke-width="2" opacity="0.6"/>
+    <line x1="273" y1="478" x2="271" y2="468" 
+          stroke="#00FFFF" stroke-width="2" opacity="0.6"/>
+    <line x1="264" y1="478" x2="266" y2="470" 
+          stroke="#00FFFF" stroke-width="2" opacity="0.6"/>
+    <line x1="274" y1="478" x2="275" y2="463" 
+          stroke="#00FFFF" stroke-width="2" opacity="0.6"/>
+</svg>
