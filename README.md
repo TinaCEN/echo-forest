@@ -1,7 +1,6 @@
-# Echo Garden 🌳
+# Echo Forest 🌳
 
 ![Echo Forest Banner](echo_forest_banner.png)
-
 ## 实时音频交互式生成艺术
 
 一个支持实时麦克风输入的交互式艺术创作工具，通过声音生成独特的多样化树木艺术。
@@ -88,10 +87,13 @@ python3 echo_garden_realtime.py
 
 Echo Garden 将声音的抽象特质转化为视觉的树木形态，每一次输入都是独特的创作过程。通过文字描述声音，我们架起了听觉与视觉之间的桥梁，让每个人都能创造属于自己的声音花园。
 
+<<<<<<< HEAD
 > **"When we talk, can trees hear us?"** 
 > 
 > 这是一个关于声音与自然对话的数字艺术实验。每一个声音都能在这个虚拟花园中生长出独特的树木，创造一片属于你的声音森林。
 
+=======
+>>>>>>> 00725c46d338f8d9246f98a77b3feb48abec7fdd
 ### 📝 技术特点
 
 - 使用tkinter创建图形界面
