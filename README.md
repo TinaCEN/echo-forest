@@ -1,7 +1,12 @@
 # Echo Forest 🌳
 
 ![Echo Forest Banner](echo_forest_banner.png)
+
 ## 实时音频交互式生成艺术
+<img width="1920" height="1005" alt<img width="1080" height="1350" alt="Motion blur Facebook event cover4" src="https://github.com/user-attachments/assets/e2e0c4e2-15c3-42ab-8b1a-e8bfaf5793e8" />
+="Motion blur Facebook event cover" <img width="1200" height="630" alt="Motion blur Facebook event cover7" src="https://github.com/user-attachments/assets/f01b583c-881e-4cf8-8683-4be9816fcdbd" /><img width="1080" height="1920" alt="Motion blur Facebook event cover6" src="https://github.com/user-attachments/assets/624b0723-6b05-4188-b6b9-aa4a40ece934" />
+
+src="https://github.com/user-attachments/assets/2c44754f-ca4a-4557-a905-f32d5838829c" />
 
 一个支持实时麦克风输入的交互式艺术创作工具，通过声音生成独特的多样化树木艺术。
 
